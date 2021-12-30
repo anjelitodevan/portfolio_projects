@@ -13,7 +13,7 @@ The analysis is only as good as the data. Finding a good movie data is pretty ha
 
 ## 2. Covid Data Analysis
 
-A little tinkering with Covid-19 data by MySQL.
+A little tinkering with Covid-19 data by MySQL. Show some parameter regarding Covid-19 in countries and continents.
 
 ###   Disclaimer
 
