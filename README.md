@@ -19,3 +19,8 @@ A little tinkering with Covid-19 data by MySQL. Show some parameter regarding Co
 
 The data appear to be incomplete.
 
+
+## 2. Machinery Data Cleaning
+
+Clean data about machinery shop record with Python.
+
