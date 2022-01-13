@@ -25,3 +25,8 @@ Analyze a spotify database of around 20.000 songs to find what factors made a so
 ### 5. Housing Data Cleaning
 
 Clean data about housing record with SQL.
+
+
+### 6. Taylor Swift Lyric Wordcloud
+
+Analyze the most used word by Taylor Swift in her lyric.
