@@ -30,3 +30,8 @@ Clean data about housing record with SQL.
 ### 6. Taylor Swift Lyric Wordcloud
 
 Analyze the most used word by Taylor Swift in her lyric.
+
+
+### 7. Premier League Big 6 Team Comparison
+
+Compare the players of top 6 teams of English Premier League.
