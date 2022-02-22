@@ -35,3 +35,8 @@ Analyze the most used word by Taylor Swift in her lyric.
 ### 7. Premier League Big 6 Team Comparison
 
 Compare the players of top 6 teams of English Premier League.
+
+
+### 8. Sales Prediction by Python
+
+Predict the amount of sales given some features by polynomial regression.
