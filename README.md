@@ -40,3 +40,8 @@ Compare the players of top 6 teams of English Premier League.
 ### 8. Sales Prediction by Python
 
 Predict the amount of sales given some features by polynomial regression.
+
+
+### 9. Breast Cancer Classification
+
+Predict the occurance of breast cancer based on various features.
