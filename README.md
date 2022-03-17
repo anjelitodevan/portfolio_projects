@@ -45,3 +45,7 @@ Predict the amount of sales given some features by polynomial regression.
 ### 9. Breast Cancer Classification
 
 Predict the occurance of breast cancer based on various features.
+
+### 10. Coffee Quality Regression by Python
+
+Predict the quality of coffee given some features.
